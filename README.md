@@ -1,2 +1,2 @@
-# JavaSamplePrograms
-Java Sample Programs for practice of language features
+# JavaProjects
+Java Projects for practice of language features and java frameworks like spring projects 
